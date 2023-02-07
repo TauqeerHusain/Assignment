@@ -98,676 +98,354 @@ const events = [
 const allSingleEventData = {
   1: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
   2: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
   3: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  4: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
-  5: [
+  2: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  6: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
-  7: [
+  2: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  8: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
-  9: [
+  2: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  10: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
-  11: [
+  2: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  12: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
-  13: [
+  2: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  14: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
-  15: [
+  2: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  16: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
-  17: [
+  2: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  18: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
-  19: [
+  2: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  20: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
   ],
-  21: [
+  2: [
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
     {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  22: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-  ],
-  23: [
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
+      timestamp: "02/1023/20",
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
@@ -787,6 +465,7 @@ const App = () => {
     if (selectedEvent && selectedEvent.id === tab.id) return;
     const data = events.filter((item) => item.id === tab.id);
     setSelectedEvent(data.pop());
+    console.log("2eadasd");
   };
 
   const closeTabHandler = (eventName) => {
@@ -806,12 +485,9 @@ const App = () => {
             display: "flex",
             columnGap: 30,
             alignItems: "center",
-            padding: "0 20px",
           }}
         >
-          <div style={{ width: "15%" }}>
-            <h3 style={{ fontSize: 20, fontWeight: "600" }}>Event Viewer</h3>
-          </div>
+          <h3>Event Viewer</h3>
           {openTabs.map((item) => (
             <div
               key={item.id}
@@ -849,15 +525,15 @@ const App = () => {
           ))}
         </div>
       </nav>
-      <div style={{ display: "flex", marginTop: 80 }}>
-        <div style={{ width: "15%", padding: "20px", paddingTop: 0 }}>
+      <div style={{ display: "flex" }}>
+        <div style={{ width: "15%", padding: "20px" }}>
+          <h3>Event Types</h3>
           <ul
             style={{
               listStyleType: "none",
               padding: 0,
               overflowY: "scroll",
               height: "75vh",
-              marginTop: 0,
             }}
           >
             {events.map((event) => (
@@ -894,6 +570,7 @@ const App = () => {
             overflowY: "scroll",
             height: "80vh",
             width: "80%",
+            marginTop: 80,
             border: "1px solid #ccc",
             padding: 10,
             borderRadius: 5,

@@ -184,31 +184,6 @@ const allSingleEventData = {
       id: 1613468,
       raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
     },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
-    {
-      timestamp: "02/10/20",
-      id: 1613468,
-      raw: "Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events. Goal: Highlight your frontend engineering abilities by creating a small single page app to view tables of events.",
-    },
   ],
   3: [
     {
